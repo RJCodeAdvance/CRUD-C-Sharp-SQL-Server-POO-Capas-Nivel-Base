@@ -1,0 +1,14 @@
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaNegocio\obj\Debug\CapaNegocio.pdb

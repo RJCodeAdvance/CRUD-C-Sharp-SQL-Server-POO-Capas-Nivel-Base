@@ -1,0 +1,26 @@
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache

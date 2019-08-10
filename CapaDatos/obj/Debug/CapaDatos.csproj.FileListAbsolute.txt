@@ -1,0 +1,10 @@
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.pdb
