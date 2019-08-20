@@ -5,5 +5,4 @@
 https://rjcodeadvance.com/crud-completo-con-arquitectura-en-capas-poo-c-y-sql-server-nivel-base/
 <h3>YouTube:</h3>
 https://www.youtube.com/watch?v=_H8vswpMSOw
-<img src="https://rjcodeadvance.com/wp-content/uploads/2019/08/Login-Disign-2.png">
 
